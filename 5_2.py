@@ -1,9 +1,9 @@
-abra = int(input())
+abrok = int(input())
 bulbasaur = int(input())
 charmander = int(input())
-if(abra>bulbasaur and abra>charmander):
-    print(abra)
-elif(bulbasaur>abra and bulbasaur>charmander):
+if(abrok>bulbasaur and abrok>charmander):
+    print(abrok)
+elif(bulbasaur>abrok and bulbasaur>charmander):
     print(bulbasaur)
 else:
     print(charmander)
