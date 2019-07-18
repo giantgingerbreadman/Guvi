@@ -1,7 +1,7 @@
-a=int(input())
-if(a>0):
+abrakadabra=int(input())
+if(abrakadabra>0):
     print("Positive")
-elif(a==0):
+elif(abrakadabra==0):
     print("Zero")
 else:
     print("Negative")
